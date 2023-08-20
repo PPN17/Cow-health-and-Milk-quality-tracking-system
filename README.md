@@ -11,3 +11,6 @@ APPLICATION AND ADVANTAGES
 
 
 A cow health and milk quality tracking system can be applied in various ways to benefit the dairy industry. One major application is in monitoring the health of cows on a regular basis. The system can also be used to track milk production, including the volume and quality of milk produced by each cow.It can detect health issues early on and take action to prevent them from becoming more severe. This can improve the overall health of the cow and increase milk production. 
+
+
+To work use these codes and write sql codes to save and proper working.
