@@ -16,7 +16,7 @@ public class DatabaseConnection {
     public DatabaseConnection() {
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
-            connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/dbms1", "root", "Maajemysqlpassword@1");
+            connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/dbms", "root", "123abc");
         } catch (ClassNotFoundException | SQLException e) {
             System.out.println("Error: unable to establish a database connection.");
             e.printStackTrace();
